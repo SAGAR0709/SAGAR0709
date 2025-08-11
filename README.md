@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagar Singh</h1>
 <h3 align="center">Computer Science undergraduate | passionate about problem-solving and emerging tech.</h3>
 
-- 🔭 I’m currently working on [Tymora](https://l.instagram.com/?u=https%3A%2F%2Ftymoraland.netlify.app%2F%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAaexi4__HhUHORcvWqN-f9wiDJK831uvW7ReDwerxl9V6ImRdgg-giH2fRDUxQ_aem_TKwhBkMpZ_rzIb1PTzzJ6w&e=AT2NUmSD4CLMArbhuLE8sJ5Jxokh4l1Z7c5pWDzfWzadVBUn-TQgFXilp-A-7KhdxEjiMx6zkXfZT_IqPd2XtLbMZHRslhbDijPsdQ)
+(https://l.instagram.com/?u=https%3A%2F%2Ftymoraland.netlify.app%2F%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAaexi4__HhUHORcvWqN-f9wiDJK831uvW7ReDwerxl9V6ImRdgg-giH2fRDUxQ_aem_TKwhBkMpZ_rzIb1PTzzJ6w&e=AT2NUmSD4CLMArbhuLE8sJ5Jxokh4l1Z7c5pWDzfWzadVBUn-TQgFXilp-A-7KhdxEjiMx6zkXfZT_IqPd2XtLbMZHRslhbDijPsdQ)
 
 - 🌱 I’m currently learning **Python, C, C++ and Full stack Development**
 
